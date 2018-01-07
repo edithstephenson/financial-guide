@@ -1,4 +1,4 @@
-package br.com.buw.financialguide.security.services.impl;
+package br.com.buw.financialguide.security.services.provider;
 
 import java.util.Optional;
 
